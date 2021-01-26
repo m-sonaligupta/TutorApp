@@ -1,0 +1,61 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Tutor</string>
+    <string name="personal_tutions">Personal Tutions</string>
+    <string name="computerscience_dept">Computer Science Dept.</string>
+    <string name="popular_courses">Popular Courses</string>
+    <string name="cyber_security">Cyber Security</string>
+    <string name="mysql">MySQL</string>
+    <string name="_90">$90</string>
+    <string name="web_development">Web Dev</string>
+    <string name="python">Python</string>
+    <string name="_60">$60</string>
+    <string name="java" />
+<!--    <string name="regular_Courses">Regular Courses</string>-->
+    <string name="regular_courses" />
+    <string name="description1">Basic to Intermediate level for school and college kid
+
+                                Days : 3 hours / 3 days a week
+
+                                Platform : Google Meet
+
+                                Timing : Flexible
+
+                                Fees : 800/pm
+
+                                Duration : Depends on Student
+
+                                For enquiry : contact@personaltution.com
+    </string>
+    <string name="description2">Basic to Intermediate level for school and college kids.
+                                Days : 3 hours / 3 days a week
+                                Platform : Google Meet
+                                Timing : Flexible
+                                Fees : 600/pm
+                                Duration : Depends on Student
+                                For enquiry : contact@personaltution.com
+    </string>
+    <string name="description3">Basic to Intermediate level for school and college kids.
+                                Days : 3 hours / 3 days a week
+                                Platform : Google Meet
+                                Timing : Flexible
+                                Fees : 900/pm
+                                Duration : Depends on Student
+                                For enquiry : contact@personaltution.com
+    </string>
+    <string name="description4">Basic level for school and college kids.
+                                Days : 3 hours / 3 days a week
+                                Platform : Google Meet
+                                Timing : Flexible
+                                Fees : 500/pm
+                                Duration : Depends on Student
+                                For enquiry : contact@personaltution.com
+    </string>
+    <string name="description5">Basic to Intermediate level for school and college kids.
+                                Days : 3 hours / 3 days a week
+                                Platform : Google Meet
+                                Timing : Flexible
+                                Fees : 500/pm
+                                Duration : 2 months
+                                For enquiry : contact@personaltution.com
+    </string>
+</resources>
